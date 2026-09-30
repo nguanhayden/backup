@@ -4,7 +4,10 @@ print(chosen_drink)
 print(len(drinks))
 
 # 1. What does each print statement display? Explain why drinks[1] selects that drink.
-# Your answer:
+# Your answer: 
+# coffee
 
 # 2. What are the Python types of drinks and chosen_drink?
 # Your answer:
+#drinks: list
+#chosen_drink: str
